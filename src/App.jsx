@@ -10,9 +10,9 @@ function App() {
   return (
     <>
       
-      <Header></Header>
-      <Content></Content>
-      <Footer></Footer>
+      <Header title={document.title} />
+      <Content/>
+      <Footer/>
     </>
   )
 }
