@@ -1,0 +1,26 @@
+.content-container{
+    padding: 100px 0px;
+    background-color: #3F72AF;
+    color: #fff;
+}
+.content-container textarea{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+.content-container .contentBtn{
+    padding: 12px 28px;
+    background-color: black;
+    color: #fff;
+    font-weight: 600;
+    border: 2px solid transparent;
+    margin: 20px 0px;
+    border-radius: 4px;
+}
+.content-container .contentBtn:hover{
+
+    background-color: #fff;
+    color: #000;
+    border: 2px solid black;
+
+}
